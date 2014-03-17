@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="D61E01BA-7B87-4BBF-73B0-B47059BCA57A" ownedBy="8492AEC3-E406-44C6-03CA-2BF280D8F5B0">
+  <arch:name>
+    <arch:string>Emmet</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>api.geonames.org</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>B90CA9CC-B313-4525-8F26-0896AE7D3ED2</arch:variableID>
+          <arch:valueID>D3696BD3-5280-4FC0-AAA4-06B32E9B87D1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/702B8C6B-9671-4918-C4B7-5C794FF7DBDE">702B8C6B-9671-4918-C4B7-5C794FF7DBDE</oc:propid>
+          <oc:var_label type="nominal">Gazetteer reference</oc:var_label>
+          <oc:show_val>Emmet County (GeoNames:4855587)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B90CA9CC-B313-4525-8F26-0896AE7D3ED2" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="702B8C6B-9671-4918-C4B7-5C794FF7DBDE" localURI="http://opencontext.org/properties/702B8C6B-9671-4918-C4B7-5C794FF7DBDE" href="http://www.geonames.org/4855587">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Emmet County</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>87556028-677C-4C59-BA35-AE509BC825AD</arch:variableID>
+          <arch:valueID>EF10A0AB-A819-420D-9E6D-BD12F46DE1F1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E337A497-34C4-4519-7E1F-D354FD2D87FF">E337A497-34C4-4519-7E1F-D354FD2D87FF</oc:propid>
+          <oc:var_label type="alphanumeric">County name</oc:var_label>
+          <oc:show_val>Emmet County</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>03D4EE03-29D9-4DA6-5C3A-CC20CA02A1EA</arch:variableID>
+          <arch:integer>63</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/FBE8F5B6-2510-4E95-BB0B-BE328EF67DF8">FBE8F5B6-2510-4E95-BB0B-BE328EF67DF8</oc:propid>
+          <oc:var_label type="integer">County FIPS</oc:var_label>
+          <oc:show_val>063</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6485E7FF-1735-4A8F-C7E9-F54D78B34C9C</arch:variableID>
+          <arch:integer>19063</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/C410D2C3-60ED-499F-0F2D-AEFDDC5DAE1B">C410D2C3-60ED-499F-0F2D-AEFDDC5DAE1B</oc:propid>
+          <oc:var_label type="integer">FIPS</oc:var_label>
+          <oc:show_val>19063</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/21268C42-F4B1-4D37-C130-AA69FFD3E7F9">
+        <oc:name>Iowa</oc:name>
+        <oc:id>21268C42-F4B1-4D37-C130-AA69FFD3E7F9</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/B5D95E9D-6241-4DD2-434F-0C44691B34E0">
+        <oc:name>13ET1</oc:name>
+        <oc:id>B5D95E9D-6241-4DD2-434F-0C44691B34E0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FF17794B-6C5F-41EB-B52C-31F529D89BFF">
+        <oc:name>13ET10</oc:name>
+        <oc:id>FF17794B-6C5F-41EB-B52C-31F529D89BFF</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8860E225-EF82-4931-2038-25C47D67F1AD">
+        <oc:name>13ET12</oc:name>
+        <oc:id>8860E225-EF82-4931-2038-25C47D67F1AD</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/48CD9807-1253-48C8-4E7C-B7AD0A5741C9">
+        <oc:name>13ET2</oc:name>
+        <oc:id>48CD9807-1253-48C8-4E7C-B7AD0A5741C9</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C5E4E85D-B64C-449F-E59F-86F796CC228A">
+        <oc:name>13ET3</oc:name>
+        <oc:id>C5E4E85D-B64C-449F-E59F-86F796CC228A</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/03FD9726-F446-4C43-B4C8-7D2820F98896">
+        <oc:name>13ET4</oc:name>
+        <oc:id>03FD9726-F446-4C43-B4C8-7D2820F98896</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DAC6FBB7-A36E-427E-36F5-99390CC0F89A">
+        <oc:name>13ET401</oc:name>
+        <oc:id>DAC6FBB7-A36E-427E-36F5-99390CC0F89A</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7EF0A721-CEAA-4E3A-94F2-8147B45F1A83">
+        <oc:name>13ET402</oc:name>
+        <oc:id>7EF0A721-CEAA-4E3A-94F2-8147B45F1A83</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/501A3FAE-AFAD-446D-E9C5-43E000D04CDE">
+        <oc:name>13ET403</oc:name>
+        <oc:id>501A3FAE-AFAD-446D-E9C5-43E000D04CDE</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F50A5788-3292-4AEF-01FC-AC0BFA3520DA">
+        <oc:name>13ET404</oc:name>
+        <oc:id>F50A5788-3292-4AEF-01FC-AC0BFA3520DA</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DED2B8CA-34E4-4276-5090-61EF4F2196A5">
+        <oc:name>13ET405</oc:name>
+        <oc:id>DED2B8CA-34E4-4276-5090-61EF4F2196A5</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/331A7BFA-9BDC-4F0B-BF7B-D5EF970DE622">
+        <oc:name>13ET406</oc:name>
+        <oc:id>331A7BFA-9BDC-4F0B-BF7B-D5EF970DE622</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FCE28570-FFEF-4FAD-5031-75FFE6794CFA">
+        <oc:name>13ET407</oc:name>
+        <oc:id>FCE28570-FFEF-4FAD-5031-75FFE6794CFA</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/40FBEA5D-D365-49A3-1D4E-124DE98F9404">
+        <oc:name>13ET5</oc:name>
+        <oc:id>40FBEA5D-D365-49A3-1D4E-124DE98F9404</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6253BC1B-9919-4379-39B0-2912C760DEB2">
+        <oc:name>13ET6</oc:name>
+        <oc:id>6253BC1B-9919-4379-39B0-2912C760DEB2</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/774A49AE-2C38-485C-67D7-81E5075A9D7D">
+        <oc:name>13ET7</oc:name>
+        <oc:id>774A49AE-2C38-485C-67D7-81E5075A9D7D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E3E4FD98-8CED-493E-B8E7-458C16AC2CD4">
+        <oc:name>13ET8</oc:name>
+        <oc:id>E3E4FD98-8CED-493E-B8E7-458C16AC2CD4</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B4E61429-E086-47FB-85BA-E7F2AB5E4770">
+        <oc:name>13ET9</oc:name>
+        <oc:id>B4E61429-E086-47FB-85BA-E7F2AB5E4770</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Iowa Site Files: Emmet (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-16</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Iowa</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Iowa Office of the State Archaeologist (OSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/D61E01BA-7B87-4BBF-73B0-B47059BCA57A</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8492AEC3-E406-44C6-03CA-2BF280D8F5B0">Iowa Site Files</oc:project_name>
+    <oc:pub_date>2014-03-16T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Iowa+Site+Files%3A+Emmet+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Iowa&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Iowa+Office+of+the+State+Archaeologist+%28OSA%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FD61E01BA-7B87-4BBF-73B0-B47059BCA57A</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.379781723022</oc:geo_lat>
+      <oc:geo_long>-94.677528381348</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/D61E01BA-7B87-4BBF-73B0-B47059BCA57A" specificity="-1">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Emmet</oc:source_name>
+        <oc:source_id>D61E01BA-7B87-4BBF-73B0-B47059BCA57A</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-17T04:55:12-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/17 04:55:12</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

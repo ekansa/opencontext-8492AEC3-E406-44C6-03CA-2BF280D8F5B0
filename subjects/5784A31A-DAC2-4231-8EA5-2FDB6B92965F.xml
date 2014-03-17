@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="5784A31A-DAC2-4231-8EA5-2FDB6B92965F" ownedBy="8492AEC3-E406-44C6-03CA-2BF280D8F5B0">
+  <arch:name>
+    <arch:string>13LA3</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_6_a49220780</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>3FC97853-08FA-415F-ED27-FB6DFC513B89</arch:variableID>
+          <arch:integer>3</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/A56057B1-0AA2-47EA-3E5D-2EA2082C59B5">A56057B1-0AA2-47EA-3E5D-2EA2082C59B5</oc:propid>
+          <oc:var_label type="integer">Site number</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FAC1EE4D-E89F-4CF2-8337-CF1E344665AD</arch:variableID>
+          <arch:valueID>D2A0D112-1E10-48E7-792B-40BA720AFE69</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/857DBD0C-3668-42BC-45FF-00BDE6CD89A3">857DBD0C-3668-42BC-45FF-00BDE6CD89A3</oc:propid>
+          <oc:var_label type="nominal">Auxiliary ID</oc:var_label>
+          <oc:show_val>none</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>182C4D42-AD5A-4BB9-E2CD-0E216F68818F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DC7D15A4-0A6E-4AE1-CA6C-672571475A8B">DC7D15A4-0A6E-4AE1-CA6C-672571475A8B</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Late Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="DC7D15A4-0A6E-4AE1-CA6C-672571475A8B" localURI="http://opencontext.org/properties/DC7D15A4-0A6E-4AE1-CA6C-672571475A8B" href="http://opencontext.org/vocabularies/dinaa/00014">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>43A6D096-E0F4-47AB-E0B3-EFD4275333C2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5C18956B-9864-4B08-EBEA-B54733975C26">5C18956B-9864-4B08-EBEA-B54733975C26</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Early Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="5C18956B-9864-4B08-EBEA-B54733975C26" localURI="http://opencontext.org/properties/5C18956B-9864-4B08-EBEA-B54733975C26" href="http://opencontext.org/vocabularies/dinaa/00018">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Early Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>6E559D70-9216-4340-65BA-BB3DC23F6BC9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1F1A56D0-3B49-4170-B901-68C33243971F">1F1A56D0-3B49-4170-B901-68C33243971F</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Early Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="1F1A56D0-3B49-4170-B901-68C33243971F" localURI="http://opencontext.org/properties/1F1A56D0-3B49-4170-B901-68C33243971F" href="http://opencontext.org/vocabularies/dinaa/00039">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Early Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>7DDEACFB-DB42-48DF-DE00-029513660B01</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F99FAF6B-EC4D-428A-93BE-A28AF19A5340">F99FAF6B-EC4D-428A-93BE-A28AF19A5340</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="F99FAF6B-EC4D-428A-93BE-A28AF19A5340" localURI="http://opencontext.org/properties/F99FAF6B-EC4D-428A-93BE-A28AF19A5340" href="http://opencontext.org/vocabularies/dinaa/00007">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>9C85CD89-B268-4DB3-7720-541E066B8757</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DDAAF711-CD38-47A3-0DB0-5EF440A39724">DDAAF711-CD38-47A3-0DB0-5EF440A39724</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Middle Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="DDAAF711-CD38-47A3-0DB0-5EF440A39724" localURI="http://opencontext.org/properties/DDAAF711-CD38-47A3-0DB0-5EF440A39724" href="http://opencontext.org/vocabularies/dinaa/00019">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>B875553F-B884-4B32-7E2C-B20F68700F5B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D2B908BB-98F6-4A6B-3FE0-C420E97445D8">D2B908BB-98F6-4A6B-3FE0-C420E97445D8</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Middle Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="D2B908BB-98F6-4A6B-3FE0-C420E97445D8" localURI="http://opencontext.org/properties/D2B908BB-98F6-4A6B-3FE0-C420E97445D8" href="http://opencontext.org/vocabularies/dinaa/00041">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>BC43850C-A8B3-410E-08EE-6EA0A0FBD441</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/085AF593-1767-4A4A-0FD4-171AEA4902C0">085AF593-1767-4A4A-0FD4-171AEA4902C0</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Late Prehistoric</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="085AF593-1767-4A4A-0FD4-171AEA4902C0" localURI="http://opencontext.org/properties/085AF593-1767-4A4A-0FD4-171AEA4902C0" href="http://opencontext.org/vocabularies/dinaa/00024">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Prehistoric</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>C70C7C78-88D3-455D-F0A4-0D12D4649AD2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B7F12D54-3EDB-40A8-8F2F-0B1E0AF40D95">B7F12D54-3EDB-40A8-8F2F-0B1E0AF40D95</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Late Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="B7F12D54-3EDB-40A8-8F2F-0B1E0AF40D95" localURI="http://opencontext.org/properties/B7F12D54-3EDB-40A8-8F2F-0B1E0AF40D95" href="http://opencontext.org/vocabularies/dinaa/00020">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>852FD445-E7F9-48C4-1C0F-6539399AB57A</arch:variableID>
+          <arch:valueID>DA660E00-480A-4B9F-900F-079D95E9C38F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AAC8775A-472C-483E-F044-D7574E94EE94">AAC8775A-472C-483E-F044-D7574E94EE94</oc:propid>
+          <oc:var_label type="nominal">Cultural affiliation</oc:var_label>
+          <oc:show_val>Late Paleo-Indian</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="852FD445-E7F9-48C4-1C0F-6539399AB57A" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="AAC8775A-472C-483E-F044-D7574E94EE94" localURI="http://opencontext.org/properties/AAC8775A-472C-483E-F044-D7574E94EE94" href="http://opencontext.org/vocabularies/dinaa/00012">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Paleoindian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BCE3FC06-6BBA-4AC9-8239-0E73E6A94726</arch:variableID>
+          <arch:valueID>17F97FD0-C876-4F06-B6E1-A31864B95FB8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8E52B87E-330E-4620-27F5-EAD5291E2E32">8E52B87E-330E-4620-27F5-EAD5291E2E32</oc:propid>
+          <oc:var_label type="nominal">Culture phase</oc:var_label>
+          <oc:show_val>Marion</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="BCE3FC06-6BBA-4AC9-8239-0E73E6A94726" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="8E52B87E-330E-4620-27F5-EAD5291E2E32" localURI="http://opencontext.org/properties/8E52B87E-330E-4620-27F5-EAD5291E2E32" href="http://opencontext.org/vocabularies/dinaa/00018">
+                <oc:vocabulary href=""/>
+                <oc:label>Early Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BCE3FC06-6BBA-4AC9-8239-0E73E6A94726</arch:variableID>
+          <arch:valueID>AF29B07C-1E1F-480E-1A5B-40CB24240330</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/083A84F3-E0A0-4BAB-82F4-FF0554FF93B4">083A84F3-E0A0-4BAB-82F4-FF0554FF93B4</oc:propid>
+          <oc:var_label type="nominal">Culture phase</oc:var_label>
+          <oc:show_val>Weaver</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="BCE3FC06-6BBA-4AC9-8239-0E73E6A94726" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="083A84F3-E0A0-4BAB-82F4-FF0554FF93B4" localURI="http://opencontext.org/properties/083A84F3-E0A0-4BAB-82F4-FF0554FF93B4" href="http://opencontext.org/vocabularies/dinaa/00020">
+                <oc:vocabulary href=""/>
+                <oc:label>Late Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BCE3FC06-6BBA-4AC9-8239-0E73E6A94726</arch:variableID>
+          <arch:valueID>C1458317-0E55-4E84-0E1B-77379F03AB14</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/040D19A1-9106-4F18-90BA-D5DCF3FDAABA">040D19A1-9106-4F18-90BA-D5DCF3FDAABA</oc:propid>
+          <oc:var_label type="nominal">Culture phase</oc:var_label>
+          <oc:show_val>Oneota</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="BCE3FC06-6BBA-4AC9-8239-0E73E6A94726" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="040D19A1-9106-4F18-90BA-D5DCF3FDAABA" localURI="http://opencontext.org/properties/040D19A1-9106-4F18-90BA-D5DCF3FDAABA" href="http://opencontext.org/vocabularies/dinaa/00024">
+                <oc:vocabulary href=""/>
+                <oc:label>Late Prehistoric</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D6FAF80F-3ABA-4686-0085-B81B0700510A</arch:variableID>
+          <arch:valueID>A33E93B5-874A-4D0F-A9D0-A249E3DF2089</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F6E460E1-4820-454E-E805-BBF301D988D3">F6E460E1-4820-454E-E805-BBF301D988D3</oc:propid>
+          <oc:var_label type="alphanumeric">Basis of phasing</oc:var_label>
+          <oc:show_val>projectile point typology</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D6FAF80F-3ABA-4686-0085-B81B0700510A</arch:variableID>
+          <arch:valueID>AAF60E0B-4ABA-4D0F-42B5-74AF0B703965</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/03587B7B-69A6-4F17-3907-F74241728A16">03587B7B-69A6-4F17-3907-F74241728A16</oc:propid>
+          <oc:var_label type="alphanumeric">Basis of phasing</oc:var_label>
+          <oc:show_val>other diagnostic artifacts</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D6FAF80F-3ABA-4686-0085-B81B0700510A</arch:variableID>
+          <arch:valueID>BB63E1DA-E302-49F9-149B-06E689F7AE48</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4E47EA83-EDAF-4886-208E-4B7F404D9BE9">4E47EA83-EDAF-4886-208E-4B7F404D9BE9</oc:propid>
+          <oc:var_label type="alphanumeric">Basis of phasing</oc:var_label>
+          <oc:show_val>ceramic attribute analysis</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FC358103-88E5-4966-E3E9-C7F55564DAE0</arch:variableID>
+          <arch:valueID>2F7D4A9F-A192-4947-3539-2EDAF7C2113C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5CAE8674-3448-4A9E-773B-409CB3FFAAE5">5CAE8674-3448-4A9E-773B-409CB3FFAAE5</oc:propid>
+          <oc:var_label type="alphanumeric">Describe</oc:var_label>
+          <oc:show_val>3/4 and full grooved axes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FC358103-88E5-4966-E3E9-C7F55564DAE0</arch:variableID>
+          <arch:valueID>55D790B7-1487-4E26-4AFC-920B3C0A7582</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/120ED727-57DE-41C7-4D2B-90F064CC748C">120ED727-57DE-41C7-4D2B-90F064CC748C</oc:propid>
+          <oc:var_label type="alphanumeric">Describe</oc:var_label>
+          <oc:show_val>triangular unnotched points</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FC358103-88E5-4966-E3E9-C7F55564DAE0</arch:variableID>
+          <arch:valueID>57B41201-CBC5-4A31-364F-07F28481EA30</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A64DEAAC-ABE5-4AB2-47A2-27133CB4F585">A64DEAAC-ABE5-4AB2-47A2-27133CB4F585</oc:propid>
+          <oc:var_label type="alphanumeric">Describe</oc:var_label>
+          <oc:show_val>Marion Thick ceramics</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FC358103-88E5-4966-E3E9-C7F55564DAE0</arch:variableID>
+          <arch:valueID>C8578EA8-D5E6-406D-6B98-13DA10C7ED48</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C0A19C9C-C7C4-47A6-E307-C52A16D6B893">C0A19C9C-C7C4-47A6-E307-C52A16D6B893</oc:propid>
+          <oc:var_label type="alphanumeric">Describe</oc:var_label>
+          <oc:show_val>Weaver ware</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8B0E5EBC-5BF9-4294-1A26-A923AF71C625</arch:variableID>
+          <arch:valueID>8E62785D-E514-40CA-82DE-7E5DE87402DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C39823A6-6270-4FF9-7423-F5B719CCFEA9">C39823A6-6270-4FF9-7423-F5B719CCFEA9</oc:propid>
+          <oc:var_label type="alphanumeric">Artifact description</oc:var_label>
+          <oc:show_val/>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2C26AA89-435D-4529-373F-A0E4AC09F32F</arch:variableID>
+          <arch:valueID>49C9D319-49CB-46AA-FC86-9B82F1F70BE4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/69203BCF-C290-46D3-E561-003B2903D857">69203BCF-C290-46D3-E561-003B2903D857</oc:propid>
+          <oc:var_label type="nominal">Site function</oc:var_label>
+          <oc:show_val>Open habitation</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/21268C42-F4B1-4D37-C130-AA69FFD3E7F9">
+        <oc:name>Iowa</oc:name>
+        <oc:id>21268C42-F4B1-4D37-C130-AA69FFD3E7F9</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/EF2FBA4F-1F26-4F77-A950-1C58F8BB7C17">
+        <oc:name>Louisa</oc:name>
+        <oc:id>EF2FBA4F-1F26-4F77-A950-1C58F8BB7C17</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Iowa Site Files: 13LA3 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-16</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Iowa</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Iowa Office of the State Archaeologist (OSA)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/5784A31A-DAC2-4231-8EA5-2FDB6B92965F</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8492AEC3-E406-44C6-03CA-2BF280D8F5B0">Iowa Site Files</oc:project_name>
+    <oc:pub_date>2014-03-16T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Iowa+Site+Files%3A+13LA3+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Iowa&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Iowa+Office+of+the+State+Archaeologist+%28OSA%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F5784A31A-DAC2-4231-8EA5-2FDB6B92965F</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>41.178620566131</oc:geo_lat>
+      <oc:geo_long>-91.142578125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/5784A31A-DAC2-4231-8EA5-2FDB6B92965F" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>13LA3</oc:source_name>
+        <oc:source_id>5784A31A-DAC2-4231-8EA5-2FDB6B92965F</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-17T08:18:30-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/17 08:18:30</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(800 BCE - 1673 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-800</oc:time_start>
+          <oc:time_finish>1673</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/5784A31A-DAC2-4231-8EA5-2FDB6B92965F">
+            <oc:source_name>13LA3</oc:source_name>
+            <oc:source_id>5784A31A-DAC2-4231-8EA5-2FDB6B92965F</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-03-16T13:15:46-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
